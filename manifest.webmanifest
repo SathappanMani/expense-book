@@ -1,0 +1,9 @@
+{
+  "name": "Expense Book",
+  "short_name": "Expense Book",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbfcf9",
+  "theme_color": "#0f766e",
+  "description": "Your daily money record."
+}
